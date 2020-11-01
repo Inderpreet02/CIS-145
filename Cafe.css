@@ -37,7 +37,7 @@ body{background-color:#f4f4f4;
       line-height:1.6em;
       margin-bottom:30px;}
 
-.cap{background-image:url("espr2.JPG");
+.cap{background-image:url("espr2.jpg");
            height:550px;
            background-attachment:fixed;
            background-position:bottom;
@@ -45,7 +45,7 @@ body{background-color:#f4f4f4;
            background-size:cover;
            margin:0;}
 
-.es{background-image:url("Espresso.PNG");
+.es{background-image:url("Espresso.png");
            height:600px;
            background-attachment:fixed;
            background-position:center;
