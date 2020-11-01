@@ -1,0 +1,67 @@
+.logo{text-align:right;
+     background-color:#AC3B61;
+    
+     overflow:auto;}
+
+.img{float:left;
+     margin:0;
+     padding-left:20px;
+     }
+
+.logo ul{list-style-type:none; padding:15px;}
+nav ul{list-style-type:none;}
+
+li{display:inline;}
+
+.logo a{text-decoration:none;
+        padding-right:40px;
+        color:#FFF;
+        padding:0px 20px;
+        font-size:20px;}
+
+nav{background-color:#333;
+    padding:3px;
+    margin-bottom:40px;
+    clear:left;
+    font-size:20px;}
+
+nav a{text-decoration:none;
+      color:#FFF;
+      padding-right:20px;}
+
+body{background-color:#f4f4f4;
+     padding:0;
+     margin:0;}
+
+.main{padding:0px 100px;
+      line-height:1.6em;
+      margin-bottom:30px;}
+
+.cap{background-image:url("images/Espr2.jpg");
+           height:550px;
+           background-attachment:fixed;
+           background-position:bottom;
+           background-repeat:no-repeat;
+           background-size:cover;
+           margin:0;}
+
+.es{background-image:url("images/Espresso.png");
+           height:600px;
+           background-attachment:fixed;
+           background-position:center;
+           background-repeat:no-repeat;
+           background-size:cover;
+           margin:0;
+           overflow:hidden;}
+
+.filler{background-color:#333;
+        color:#FFF;
+        text-align:center;
+        padding:60px 300px;
+        margin:0;}
+
+footer{background-color:#AC3B61;
+       color:#FFF;
+       text-align:center;
+       padding:40px 300px;}
+
